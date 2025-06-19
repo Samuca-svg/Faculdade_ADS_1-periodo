@@ -12,7 +12,6 @@ void loadingBar() {
         fflush(stdout);
         usleep(100000); // 0.1 segundo
     }
-    printf("\n\n");
 }
 
 int main() {
